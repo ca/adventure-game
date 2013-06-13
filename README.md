@@ -1,16 +1,12 @@
-# [HTML5 Boilerplate](http://html5boilerplate.com)
+# [Adventure!](http://game.alexvallorosi.com)
 
-HTML5 Boilerplate is a professional front-end template for building fast,
-robust, and adaptable web apps or sites.
+This is a text based adventure game written in Javascript for a computer programming 
+class that I am taking at my high school. It uses HTML5 Boilerplate.
 
-This project is the product of many years of iterative development and combined
-community knowledge. It does not impose a specific development philosophy or
-framework, so you're free to architect your code in the way that you want.
+This project goes along with a presentation about why Javascript is a great language
+for the web. The presentation uses Impress.JS and can be found below:
 
-* Source: [https://github.com/h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
-* Homepage: [http://html5boilerplate.com](http://html5boilerplate.com)
-* Twitter: [@h5bp](http://twitter.com/h5bp)
-
+* Presentation: [https://github.com/h5bp/html5-boilerplate](http://impress.alexvallorosi.com/compsci.html)
 
 ## Quick start
 
