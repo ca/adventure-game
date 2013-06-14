@@ -181,6 +181,8 @@ $( document ).ready(function() {
 		//This statement prints the 'message' variable which is set in each case
 		$(message).hide().appendTo("#console").fadeIn("slow");
 		
+		
+		//I have logged a few variables so that we can see where we are in the game
 		start = true;
 		console.log(currentroom);
 		e.preventDefault();
