@@ -3,13 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Alex Vallorosi> -- <Lead Developer> -- <@reddog92396>
 
-# THANKS
-
-    <name>
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
+    HTML5, CSS3, GitHub
     Normalize.css, jQuery, Modernizr
+    HTML5bp
